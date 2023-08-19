@@ -1,0 +1,11 @@
+{
+  "git.alwaysSignOff": false,
+  "git.alwaysShowStagedChangesResourceGroup": false,
+  "git.allowNoVerifyCommit": false,
+  "git.allowForcePush": false,
+  "git.autoRepositoryDetection": true,
+  "git.confirmEmptyCommits": true,
+  "git.confirmForcePush": true,
+  "git.confirmNoVerifyCommit": true,
+  "git.confirmSync": true
+}

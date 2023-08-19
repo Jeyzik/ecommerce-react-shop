@@ -1,0 +1,10 @@
+[
+  { "imgUrl": "img/product1.jpg", "title": "AEROREADY SHIRT", "price": 25 },
+  { "imgUrl": "img/product2.jpg", "title": "WIRELESS AERBUDS", "price": 100 },
+  { "imgUrl": "img/product3.jpg", "title": "HOODED PARKA", "price": 45 },
+  { "imgUrl": "img/product4.jpg", "title": "STRAW METAL BOTTLE", "price": 75 },
+  { "imgUrl": "img/product5.jpg", "title": "SILVER METAL", "price": 60 },
+  { "imgUrl": "img/product6.jpg", "title": "BACK HAT", "price": 25 },
+  { "imgUrl": "img/product7.jpg", "title": "BACKPACK", "price": 70 },
+  { "imgUrl": "img/product8.jpg", "title": "ULTRABOOST 22", "price": 45 }
+]
